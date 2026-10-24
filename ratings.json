@@ -1,6 +1,15 @@
 {
  "format": "secretscript-provider-ratings",
  "version": 1,
- "updated": "2026-10-20T16:53:12Z",
- "providers": {}
+ "updated": "2026-10-24T09:30:09Z",
+ "providers": {
+  "google": {
+   "votes": 1,
+   "stars_sum": 5,
+   "ok": 11,
+   "fail": 1,
+   "p50_ms": 4708,
+   "score": 65
+  }
+ }
 }
